@@ -21,6 +21,9 @@ packages:
   gitUrl: https://github.com/vijetadixit
   gitUsername: rimabarman
   gitBranch: Test
+- name: WmSalesforceRESTProvider
+  wpmServer: https://packages.webmethods.io
+  wpmRegistry: supported
 services:
 - serviceName: project.siqa_git_1811.WmJDBCAdapter.com_wm_adapter_wmjdbc_JDBCAdapter.connections:Database_1
   packages:
